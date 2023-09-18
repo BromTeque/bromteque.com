@@ -1,0 +1,8 @@
+body {
+    background-color: black !important;
+}
+
+* {
+    color: green !important;
+    font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+}
